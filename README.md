@@ -2,3 +2,6 @@
 Editeur de texte JJVL
 
 Vincent.
+Julie
+Jean
+Lionnel
